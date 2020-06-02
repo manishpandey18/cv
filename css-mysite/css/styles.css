@@ -1,0 +1,29 @@
+body {font-family: 'Tangerine', serif;
+  font-size: 48px;
+
+	text-align: center;
+	margin: 0
+}
+h1{ font-family: 'Tangerine', serif;
+  font-size: 3em;
+  color: #66bfbf;
+
+	margin-top: 0
+}
+h2{color: #66bfbf;
+	font-family: 'Montserrat', sans-serif;
+}
+h3{
+
+}
+
+.top-container{ text-decoration-color: #66bfbf;
+	background-color: #E9F5F9;
+	margin-top: 200px;
+}
+.middle-container{text-decoration-color: #66bfbf;
+	background-color: #cceabb;
+}
+.bottom-container{text-decoration-color: #66bfbf;
+	background-color: #ff9595
+}
